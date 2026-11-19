@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.part
+p1h.d02.*.csv
+result/
+.pytest_cache/
+.venv/
